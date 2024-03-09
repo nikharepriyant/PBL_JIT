@@ -1,4 +1,4 @@
-#  College Management System (CMS) - PBL_JIT
+#  College Management System (CMS) - PBL_@JIT
 
 Welcome to the College Management System (CMS) repository! This project is designed to offer a comprehensive solution for managing various aspects of a college or educational institution efficiently. Whether you're an administrator, faculty member, or student, CMS aims to streamline processes and enhance communication within the college environment.
 
